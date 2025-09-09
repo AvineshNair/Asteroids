@@ -1,2 +1,3 @@
 # Asteroids
-asteroids project from bootdev
+
+Asteroids is my second [Boot.dev](https://www.boot.dev) project!
